@@ -40,7 +40,7 @@
     "istanbul": "0.4.0",
     "jasmine-node": "1.14.5",
     "rewire": "2.5.0",
-    "semantic-release": "^15.12.0",
+    "semantic-release": "^17.2.3",
     "travis-deploy-once": "^5.0.9"
   },
   "config": {
